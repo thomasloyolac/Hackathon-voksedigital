@@ -1,5 +1,5 @@
 # Hackathon-voksedigital
-In This hackathon i got 19 th rank out of 1440 submissions 
+In This hackathon i got 12 th rank out of 1470 submissions 
 in this hackathon i did a lot of feature selection techniques and i tried neural networks and machine learning to solve this problem
 PROBLEM STATEMENT:
    Socio-Economic Segregation on the basis of earnings is done by various government bodies across the world by doing a poll which can be
